@@ -8,7 +8,7 @@ clear
 echo 'SUCCESS  :)'
 sleep 1
 clear
-toilet -f future "CODED BY Mr.HaCkEr"
+toilet -f future "CODED BY Mr.HaCkEr" -F gay
 sleep 2
 clear
 echo "OK...!"
