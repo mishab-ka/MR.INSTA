@@ -1,11 +1,15 @@
 #!/bin/bash
 # Coded by:Mr.HaCkEr (CCH)
 # www.github.com/mishabzzz
-
 clear
 echo 'LOADING....'
-sleep 0.5                                                                                                                                                               clear                                                                                                                                                                   echo 'SUCCESS  :)'                                                                                                                                                      sleep 1                                                                                                                                                                 clear
-toilet -f future "CODED BY Mr.HaCkEr"                                                                                                                                   sleep 2
+sleep 0.5
+clear
+echo 'SUCCESS  :)'
+sleep 1
+clear
+toilet -f future "CODED BY Mr.HaCkEr"
+sleep 2
 clear
 echo "OK...!"
 sleep 1
