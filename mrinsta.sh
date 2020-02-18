@@ -44,19 +44,29 @@ banner() {
 
 printf '\e[96m'
 
-echo '  coded by Mr.HaCkEr'
-echo ' __  __ ____    ___ _   _ ____ _____  _'
-echo '|  \/  |  _ \  |_ _| \ | / ___|_   _|/ \'
-echo '| |\/| | |_) |  | ||  \| \___ \ | | / _ \'
-echo '| |  | |  _ < _ | || |\  |___) || |/ ___ \'
-echo '|_|  |_|_| \_(_)___|_| \_|____/ |_/_/   \_\'
-echo '               MR.INSTA Brute Forcer v1.0.0 '
-echo '  =========================================='
-echo '  =Team    : [CCH] CYBER CRIMINALS HACKERS ='
-echo '  =Creadby : CYBER CRIMINALS (Mr.HaCkEr)   ='
-echo '  =Contact : allinmrhacker@gmail.com       ='
-echo '  =YouTube : CYBER CRIMINALS               ='
-echo '  =========================================='
+echo '  coded by Mr.HaCkEr                                        \                  /'
+echo ' __  __ ____    ___ _   _ ____ _____  _            _________))                ((__________'
+echo '|  \/  |  _ \  |_ _| \ | / ___|_   _|/ \         /.-------./\\    \    /    //\.--------.\'
+echo '| |\/| | |_) |  | ||  \| \___ \ | | / _ \       //#######//##\\   ))  ((   //##\\########\\'
+echo '| |  | |  _ < _ | || |\  |___) || |/ ___ \      //#######//###((  ((    ))  ))###\\########\\'
+echo '|_|  |_|_| \_(_)___|_| \_|____/ |_/_/   \_\    ((#######((#####\\  \\  //  //#####))########))'
+echo '               MR.INSTA Brute Forcer v1.0.0     \##` `###\######\\  \)(/  //######/####` `##/'
+echo '  ==========================================      )`    ``#)`  `##\`->oo<-`/##`  `(#``     `('
+echo '  =Team    : [CCH] CYBER CRIMINALS HACKERS =             (       ``\`... `/``       )'
+echo '  =Creadby : CYBER CRIMINALS (Mr.HaCkEr)   =                        \""  /'
+echo '  =Contact : allinmrhacker@gmail.com       =                         \ "`/'
+echo '  =YouTube : CYBER CRIMINALS               =                         / "/'
+echo '  ==========================================                        ( /\'
+echo '                                                                    /\| \'
+echo '                                                                   (  \'
+echo '                                                                       )'
+echo '                                                                      /'
+echo '                                                                     ('
+echo '                                                                      `  '
+
+
+
+
 printf "\n"
 }
 
@@ -138,7 +148,7 @@ printf "\e[1;92m[$] Starting Tor on port:\e[0m\e[1;77m 9055\e[0m\n"
 tor -f multitor/multitor5 > /dev/null &
 sleep 6
 checkcount=0
-printf "\e[1;92m[$] Checking Tor connection on port:\e[0m\e[1;77m 9051\e[0m..."
+printf "\e[1;92m[:] Checking Tor connection on port:\e[0m\e[1;77m 9051\e[0m..."
 check1=$(curl --socks5-hostname localhost:9051 -s https://www.google.com > /dev/null; echo $?)
 if [[ "check1" -gt 0 ]]; then
 printf "\e[1;91mFAIL!\e[0m\n"
