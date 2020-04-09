@@ -1,5 +1,5 @@
 #!/bin/bash
-# Coded by:Mr.HaCkEr (CCH)
+# Coded by:Mr.HaCkEr 
 # www.github.com/mishabzzz
 clear
 echo 'LOADING....'
@@ -52,10 +52,10 @@ echo '| |  | |  _ < _ | || |\  |___) || |/ ___ \      //#######//###((  ((    ))
 echo '|_|  |_|_| \_(_)___|_| \_|____/ |_/_/   \_\    ((#######((#####\\  \\  //  //#####))########))'
 echo '               MR.INSTA Brute Forcer v1.0.0     \##` `###\######\\  \)(/  //######/####` `##/'
 echo '  ==========================================      )`    ``#)`  `##\`->oo<-`/##`  `(#``     `('
-echo '  =Team    : [CCH] CYBER CRIMINALS HACKERS =             (       ``\`... `/``       )'
-echo '  =Creadby : CYBER CRIMINALS (Mr.HaCkEr)   =                        \""  /'
+echo '  =Team    : KERALA CYBER TUNDERS          =             (       ``\`... `/``       )'
+echo '  =Creadby : CYBER JEEVI (Mr.HaCkEr)       =                        \""  /'
 echo '  =Contact : allinmrhacker@gmail.com       =                         \ "`/'
-echo '  =YouTube : CYBER CRIMINALS               =                         / "/'
+echo '  =YouTube : CYBER JEEVI.                  =                         / "/'
 echo '  ==========================================                        ( /\'
 echo '                                                                    /\| \'
 echo '                                                                   (  \'
